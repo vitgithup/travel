@@ -3,7 +3,7 @@
 php > 8.1
 
 
-git clone https://gitlab.com/vit1236/travel.git
+git clone https://gitlab.com/vitgithup/travel.git
 ```
 cd travel
 remane .env.example to .env
